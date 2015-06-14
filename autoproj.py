@@ -17,7 +17,6 @@
 
 import argparse
 import os
-import re
 from os.path import join, exists
 from subprocess import call
 
